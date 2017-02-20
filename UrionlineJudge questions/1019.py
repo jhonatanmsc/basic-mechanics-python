@@ -1,3 +1,6 @@
+# Autor: Jhonatan Matheus
+# 20/02/2017
+
 import math
 def main():
 	

@@ -1,3 +1,6 @@
+# Autor: Jhonatan Matheus
+# 20/02/2017
+
 def main():
 
 	km = int( input() )
